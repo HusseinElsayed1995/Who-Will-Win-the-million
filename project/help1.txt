@@ -1,0 +1,15 @@
+a- giza        c-alex 
+b- 4           c- 5    
+a-3okasha      c-obama 
+a-Brazil       b-Italy    
+a-Ghana        c-Egypt
+b-Spania       c-France
+a-4            c-3
+b-5            c-2
+a-Brazil       b-Italy    
+b-Drogba       c-Eto
+a-Brazil       b-Germany  
+b-Algerie      c-Egypt
+a-5            c-3
+b-1935         c-1948
+b-Italy        c-aurugy

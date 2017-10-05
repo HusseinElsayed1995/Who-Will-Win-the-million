@@ -1,0 +1,1051 @@
+NAME    : omar
+COUNTRY : egy
+AGE     :25
+__________________
+NAME    : omar
+COUNTRY : egy
+AGE     :19
+__________________
+NAME    : hus
+COUNTRY : egy
+AGE     :19
+__________________
+NAME    : moh
+COUNTRY : egy
+AGE     :25
+__________________
+NAME    : moh
+COUNTRY : alex
+AGE     :30
+__________________
+NAME    : om
+COUNTRY : egy
+AGE     :29
+__________________
+NAME    : om
+COUNTRY : ddd
+AGE     :66
+__________________
+NAME    : hh
+COUNTRY : eg
+AGE     :36
+__________________
+NAME    : om
+COUNTRY : egy
+AGE     :33
+__________________
+NAME    : oo
+COUNTRY : www
+AGE     :222
+__________________
+NAME    : fd
+COUNTRY : dsf
+AGE     :2
+__________________
+NAME    : sdf
+COUNTRY : sdf
+AGE     :2
+__________________
+NAME    : cscd
+COUNTRY : cdcd
+AGE     :0
+__________________
+NAME    : cd
+COUNTRY : dsc
+AGE     :22
+__________________
+NAME    : sad
+COUNTRY : asd
+AGE     :22
+__________________
+NAME    : vdds
+COUNTRY : df
+AGE     :3
+__________________
+NAME    : omar
+COUNTRY : egy
+AGE     :25
+__________________
+NAME    : omar
+COUNTRY : egy
+AGE     :30
+__________________
+NAME    : om
+COUNTRY : eg
+AGE     :22
+__________________
+NAME    : om
+COUNTRY : egy
+AGE     :22
+__________________
+NAME    : om
+COUNTRY : egy
+AGE     :23
+__________________
+NAME    : magdy
+COUNTRY : elsayed
+AGE     :20
+__________________
+NAME    : magdy
+COUNTRY : egypt
+AGE     :20
+__________________
+NAME    : omar hesham
+COUNTRY : egy
+AGE     :22
+__________________
+NAME    : omar hesham
+COUNTRY : egy
+AGE     : 22
+__________________
+NAME    : omar
+COUNTRY : egy
+AGE     : 25
+__________________
+NAME    : omar
+COUNTRY : egy
+AGE     : 23
+__________________
+NAME    : omar
+COUNTRY : egy
+AGE     : 22
+__________________
+NAME    : omar
+COUNTRY : egy
+AGE     : 200
+__________________
+NAME    : omar
+COUNTRY : egy
+AGE     : 200
+__________________
+NAME    : omar
+COUNTRY : egy
+AGE     : 25
+__________________
+NAME    : omar
+COUNTRY : egy
+AGE     : 25
+__________________
+NAME    : om
+COUNTRY : egy
+AGE     : 22
+__________________
+NAME    : Mohamed
+COUNTRY : Banha
+AGE     : 20
+__________________
+NAME    : OMAR HESHAM
+COUNTRY : b
+AGE     : 25
+__________________
+NAME    : grg
+COUNTRY : gg
+AGE     : 0
+__________________
+NAME    : omar
+COUNTRY : om
+AGE     : 22
+__________________
+NAME    : gdfg
+COUNTRY : fggf
+AGE     : 23
+__________________
+NAME    : dgfd
+COUNTRY : fdh
+AGE     : 0
+__________________
+NAME    : zv
+COUNTRY : cxv
+AGE     : 0
+__________________
+NAME    : nn
+COUNTRY : nn
+AGE     : 25
+__________________
+NAME    : gddf
+COUNTRY : gfdg
+AGE     : 25
+__________________
+NAME    : fdf
+COUNTRY : dsf
+AGE     : 0
+__________________
+NAME    : gffd
+COUNTRY : df
+AGE     : 22
+__________________
+NAME    : fdf
+COUNTRY : fgd
+AGE     : 22
+__________________
+NAME    : om
+COUNTRY : om
+AGE     : 25
+__________________
+NAME    : vdsf
+COUNTRY : sddf
+AGE     : 22
+__________________
+NAME    : sda
+COUNTRY : sda
+AGE     : 23
+__________________
+NAME    : dafd
+COUNTRY : sdf
+AGE     : 22
+__________________
+NAME    : fsd
+COUNTRY : dsf
+AGE     : 22
+__________________
+NAME    : vd
+COUNTRY : ds
+AGE     : 22
+__________________
+NAME    : vc
+COUNTRY : ccv
+AGE     : 23
+__________________
+NAME    : fsd
+COUNTRY : dfsd
+AGE     : 22
+__________________
+NAME    : om
+COUNTRY : sda
+AGE     : 22
+__________________
+NAME    : FD
+COUNTRY : D
+AGE     : 22
+__________________
+NAME    : fgd
+COUNTRY : fdf
+AGE     : 22
+__________________
+NAME    : omar
+COUNTRY : egy
+AGE     : 22
+__________________
+NAME    : dfsdf
+COUNTRY : dfd
+AGE     : 25
+__________________
+NAME    : fds
+COUNTRY : dsfd
+AGE     : 22
+__________________
+NAME    : VCXCV
+COUNTRY : VCX
+AGE     : 22
+__________________
+NAME    : cddf
+COUNTRY : dsf
+AGE     : 0
+__________________
+NAME    : fdsfd
+COUNTRY : dsffd
+AGE     : 22
+__________________
+NAME    : dsa
+COUNTRY : sdas
+AGE     : 22
+__________________
+NAME    : hkj
+COUNTRY : kj
+AGE     : 22
+__________________
+NAME    : jh
+COUNTRY : hgg
+AGE     : 22
+__________________
+NAME    : omar
+COUNTRY : eg
+AGE     : 20
+__________________
+NAME    : om
+COUNTRY : om
+AGE     : 20
+__________________
+NAME    : o
+COUNTRY : o
+AGE     : 20
+__________________
+NAME    : o
+COUNTRY : o
+AGE     : 20
+__________________
+NAME    : o
+COUNTRY : o
+AGE     : 20
+__________________
+NAME    : o
+COUNTRY : o
+AGE     : 2010
+__________________
+NAME    : o
+COUNTRY : o
+AGE     : 0
+__________________
+NAME    : o
+COUNTRY : o
+AGE     : 2
+__________________
+NAME    : o
+COUNTRY : o
+AGE     : 2
+__________________
+NAME    : o
+COUNTRY : o
+AGE     : 25
+__________________
+NAME    : o
+COUNTRY : o
+AGE     : 2
+__________________
+NAME    : o
+COUNTRY : o
+AGE     : 2
+__________________
+NAME    : o
+COUNTRY : o
+AGE     : 20
+__________________
+NAME    : o
+COUNTRY : o
+AGE     : 20
+__________________
+NAME    : o
+COUNTRY : o
+AGE     : 2
+__________________
+NAME    : o
+COUNTRY : o
+AGE     : 20
+__________________
+NAME    : o
+COUNTRY : o
+AGE     : 20
+__________________
+NAME    : o
+COUNTRY : o
+AGE     : 20
+__________________
+NAME    : o
+COUNTRY : o
+AGE     : 15
+__________________
+NAME    : o
+COUNTRY : o
+AGE     : 0
+__________________
+NAME    : o
+COUNTRY : o
+AGE     : 20
+__________________
+NAME    : o
+COUNTRY : o
+AGE     : 20
+__________________
+NAME    : o
+COUNTRY : o
+AGE     : 20
+__________________
+NAME    : o
+COUNTRY : o
+AGE     : 20
+__________________
+NAME    : o
+COUNTRY : o
+AGE     : 20
+__________________
+NAME    : o
+COUNTRY : o
+AGE     : 20
+__________________
+NAME    : o
+COUNTRY : o
+AGE     : 20
+__________________
+NAME    : om
+COUNTRY : o
+AGE     : 20
+__________________
+NAME    : o
+COUNTRY : o
+AGE     : 20
+__________________
+NAME    : o
+COUNTRY : o
+AGE     : 20
+__________________
+NAME    : om
+COUNTRY : om
+AGE     : 0
+__________________
+NAME    : o
+COUNTRY : o
+AGE     : 0
+__________________
+NAME    : o
+COUNTRY : o
+AGE     : 20
+__________________
+NAME    : o
+COUNTRY : o
+AGE     : 0
+__________________
+NAME    : o
+COUNTRY : o
+AGE     : 0
+__________________
+NAME    : o
+COUNTRY : o
+AGE     : 0
+__________________
+NAME    : n
+COUNTRY : n
+AGE     : 0
+__________________
+NAME    : o
+COUNTRY : o
+AGE     : 0
+__________________
+NAME    : o\
+COUNTRY : o
+AGE     : 0
+__________________
+NAME    : om
+COUNTRY : o
+AGE     : 20
+__________________
+NAME    : o
+COUNTRY : o
+AGE     : 20
+__________________
+NAME    : o
+COUNTRY : o
+AGE     : 20
+__________________
+NAME    : o
+COUNTRY : o
+AGE     : 20
+__________________
+NAME    : hussein
+COUNTRY : egy
+AGE     : 20
+__________________
+NAME    : hu
+COUNTRY : j
+AGE     : 20
+__________________
+NAME    : o
+COUNTRY : o
+AGE     : 20
+__________________
+NAME    : o
+COUNTRY : o
+AGE     : 20
+__________________
+NAME    : o
+COUNTRY : o
+AGE     : 20
+__________________
+NAME    : o
+COUNTRY : o
+AGE     : 20
+__________________
+NAME    : o
+COUNTRY : o
+AGE     : 20
+__________________
+NAME    : o
+COUNTRY : o
+AGE     : 20
+__________________
+NAME    : o
+COUNTRY : o
+AGE     : 0
+__________________
+NAME    : o
+COUNTRY : o
+AGE     : 20
+__________________
+NAME    : o
+COUNTRY : o
+AGE     : 20
+__________________
+NAME    : o
+COUNTRY : o
+AGE     : 20
+__________________
+NAME    : o
+COUNTRY : o
+AGE     : 20
+__________________
+NAME    : o
+COUNTRY : o
+AGE     : 0
+__________________
+NAME    : o
+COUNTRY : o
+AGE     : 2
+__________________
+NAME    : o
+COUNTRY : o
+AGE     : 2
+__________________
+NAME    : o
+COUNTRY : o
+AGE     : 20
+__________________
+NAME    : o
+COUNTRY : o
+AGE     : 0
+__________________
+NAME    : o
+COUNTRY : o
+AGE     : 3
+__________________
+NAME    : o
+COUNTRY : o
+AGE     : 2
+__________________
+NAME    : O
+COUNTRY : O
+AGE     : 2
+__________________
+NAME    : O
+COUNTRY : I
+AGE     : 20
+__________________
+NAME    : O
+COUNTRY : O
+AGE     : 1
+__________________
+NAME    : O
+COUNTRY : O
+AGE     : 0
+__________________
+NAME    : O
+COUNTRY : O
+AGE     : 3
+__________________
+NAME    : r
+COUNTRY : r
+AGE     : 0
+__________________
+NAME    : o
+COUNTRY : o
+AGE     : 20
+__________________
+NAME    : O
+COUNTRY : O
+AGE     : 2
+__________________
+NAME    : o
+COUNTRY : o
+AGE     : 2
+__________________
+NAME    : o
+COUNTRY : o
+AGE     : 20
+__________________
+NAME    : o
+COUNTRY : o
+AGE     : 0
+__________________
+NAME    : o
+COUNTRY : o
+AGE     : 20
+__________________
+NAME    : o
+COUNTRY : o
+AGE     : 0
+__________________
+NAME    : a
+COUNTRY : a
+AGE     : 2
+__________________
+NAME    : o
+COUNTRY : o
+AGE     : 20
+__________________
+NAME    : o
+COUNTRY : o
+AGE     : 20
+__________________
+NAME    : o
+COUNTRY : o
+AGE     : 20
+__________________
+NAME    : omar
+COUNTRY : egy
+AGE     : 20
+__________________
+NAME    : om
+COUNTRY : 20
+AGE     : 20
+__________________
+NAME    : om
+COUNTRY : om
+AGE     : 20
+__________________
+NAME    : hus
+COUNTRY : egy
+AGE     : 20
+__________________
+NAME    : omar
+COUNTRY : om
+AGE     : 20
+__________________
+NAME    : om
+COUNTRY : 20
+AGE     : 10
+__________________
+NAME    : om
+COUNTRY : egy
+AGE     : 20
+__________________
+NAME    : om
+COUNTRY : 20
+AGE     : 10
+__________________
+NAME    : omar
+COUNTRY : e
+AGE     : 20
+__________________
+NAME    : omar
+COUNTRY : egy
+AGE     : 20
+__________________
+NAME    : om
+COUNTRY : 2
+AGE     : 3
+__________________
+NAME    : hus
+COUNTRY : 20
+AGE     : 1
+__________________
+NAME    : om
+COUNTRY : egy
+AGE     : 20
+__________________
+NAME    : moh
+COUNTRY : egy
+AGE     : 20
+__________________
+NAME    : mohamed
+COUNTRY : egy
+AGE     : 20
+__________________
+NAME    : omar
+COUNTRY : egy
+AGE     : 20
+__________________
+NAME    : omar
+COUNTRY : egy
+AGE     : 20
+__________________
+NAME    : hus
+COUNTRY : egy
+AGE     : 20
+__________________
+NAME    : moh
+COUNTRY : egy
+AGE     : 20
+__________________
+NAME    : hj
+COUNTRY : jk'
+AGE     : 10
+__________________
+NAME    : omar
+COUNTRY : r
+AGE     : 20
+NAME    : om
+COUNTRY : 20
+AGE     : 20
+NAME    : omar
+COUNTRY : 20
+AGE     : 20
+NAME    : omar
+COUNTRY : o
+AGE     : 20
+NAME    : omar
+COUNTRY : o
+AGE     : 20
+__________________
+NAME    : oi
+COUNTRY : oi
+AGE     : 2
+NAME    : ghf
+COUNTRY : hg
+AGE     : 20
+NAME    : omar
+COUNTRY : 2
+AGE     : 20
+NAME    : a
+COUNTRY : a
+AGE     : 66
+NAME    : omar
+COUNTRY : egy
+AGE     : 20
+__________________
+NAME    : om
+COUNTRY : 20
+AGE     : 25
+__________________
+NAME    : om
+COUNTRY : omar
+AGE     : 20
+__________________
+NAME    : oma
+COUNTRY : 2
+AGE     : 20
+__________________
+NAME    : ali gamal
+COUNTRY : egy
+AGE     : 20
+NAME    : ali
+COUNTRY : ali
+AGE     : 6
+__________________
+NAME    : ali gamal ali
+COUNTRY : egy
+AGE     : 6
+__________________
+NAME    : skd
+COUNTRY : dc
+AGE     : 6
+__________________
+NAME    : ali
+COUNTRY : aa
+AGE     : 3
+__________________
+NAME    : sss
+COUNTRY : s
+AGE     : 5
+__________________
+NAME    : asd
+COUNTRY : f
+AGE     : 6
+__________________
+NAME    : ds
+COUNTRY : 6
+AGE     : 6
+__________________
+NAME    : ali gamal
+COUNTRY : s
+AGE     : 6
+NAME    : w
+COUNTRY : e
+AGE     : 5
+__________________
+NAME    : ali gamal
+COUNTRY : dd
+AGE     : 6
+NAME    : ali gamal
+COUNTRY : m
+AGE     : 6
+__________________
+NAME    : ahmed
+COUNTRY : cc
+AGE     : 3
+NAME    : ali ks
+COUNTRY : d;
+AGE     : 5
+NAME    : ali m
+COUNTRY : ,
+AGE     : 6
+NAME    : ali gamal ali
+COUNTRY : egypt
+AGE     : 19
+__________________
+NAME    : ali doha
+COUNTRY : s
+AGE     : 652
+NAME    : ali gamal
+COUNTRY : ss
+AGE     : 5
+__________________
+NAME    : ali dd
+COUNTRY : d
+AGE     : 5
+NAME    : doha
+COUNTRY : ss
+AGE     : 6
+NAME    : a
+COUNTRY : s
+AGE     : 6
+NAME    : ali
+COUNTRY : d
+AGE     : 6
+NAME    : aa
+COUNTRY : a
+AGE     : 5
+NAME    : a
+COUNTRY : a
+AGE     : 5
+NAME    : al
+COUNTRY : a
+AGE     : 5
+NAME    : hg
+COUNTRY : jk
+AGE     : 4
+NAME    : sd
+COUNTRY : d
+AGE     : 5
+NAME    : s
+COUNTRY : w
+AGE     : 6
+NAME    : omar
+COUNTRY : eg
+AGE     : 20
+NAME    : hus
+COUNTRY : s
+AGE     : 6
+NAME    : jhj
+COUNTRY : jf
+AGE     : 5
+NAME    : hnmd
+COUNTRY : jgn
+AGE     : 20
+NAME    : ,nv
+COUNTRY : jg
+AGE     : 12
+NAME    : ali gamal
+COUNTRY : egy
+AGE     : 5
+__________________
+NAME    : hu
+COUNTRY : d
+AGE     : 6
+NAME    : ss
+COUNTRY : s
+AGE     : 6
+NAME    : sa
+COUNTRY : f
+AGE     : 5
+NAME    : al
+COUNTRY : a
+AGE     : 5
+NAME    : omar
+COUNTRY : egy
+AGE     : 20
+__________________
+NAME    : omar
+COUNTRY : egy
+AGE     : 20
+NAME    : ali
+COUNTRY : d
+AGE     : 6
+NAME    : ali 
+COUNTRY : d
+AGE     : 5
+__________________
+NAME    : ss
+COUNTRY : s
+AGE     : 5
+__________________
+NAME    : alif
+COUNTRY : f
+AGE     : 6
+__________________
+NAME    : ali
+COUNTRY : gam
+AGE     : 8
+__________________
+NAME    : fawzy
+COUNTRY : egy
+AGE     : 19
+__________________
+NAME    : fozy
+COUNTRY : 19
+AGE     : 19
+__________________
+NAME    : ali
+COUNTRY : d
+AGE     : 6
+__________________
+NAME    : ghjhdk
+COUNTRY : hjgf
+AGE     : 20
+__________________
+NAME    : nhjg
+COUNTRY : hjg
+AGE     : 20
+__________________
+NAME    : khgh
+COUNTRY : hjgh
+AGE     : 20
+__________________
+NAME    : hgj
+COUNTRY : hjg
+AGE     : 20
+NAME    : hjgk
+COUNTRY : hj
+AGE     : 20
+NAME    : hussein
+COUNTRY : jfg
+AGE     : 20
+NAME    : hjgjk
+COUNTRY : hjg
+AGE     : 20
+NAME    : jh
+COUNTRY : jkhg
+AGE     : 20
+NAME    : ali gamal ali
+COUNTRY : dd
+AGE     : 8
+__________________
+NAME    : fawze kk
+COUNTRY : f
+AGE     : 5
+__________________
+NAME    : e
+COUNTRY : fd
+AGE     : 5
+__________________
+NAME    : dffd
+COUNTRY : g
+AGE     : 5
+__________________
+NAME    : hfg
+COUNTRY : fn
+AGE     : 5
+NAME    : ali
+COUNTRY : d
+AGE     : 9
+NAME    : al
+COUNTRY : d
+AGE     : 65
+NAME    : omar
+COUNTRY : re
+AGE     : 20
+NAME    : foz
+COUNTRY : egy
+AGE     : 19
+__________________
+NAME    : fz
+COUNTRY : eg
+AGE     : 19
+__________________
+NAME    : ali
+COUNTRY : egy
+AGE     : 20
+__________________
+NAME    : hussein
+COUNTRY : egypt
+AGE     : 20
+NAME    : hussein
+COUNTRY : ejgf
+AGE     : 20
+NAME    : fawzy
+COUNTRY : egy
+AGE     : 19
+NAME    : HUDG
+COUNTRY : JHFH
+AGE     : 20
+__________________
+NAME    : B,V
+COUNTRY : HJG
+AGE     : 20
+__________________
+NAME    : bknmlb
+COUNTRY : jhgfbvn
+AGE     : 20
+__________________
+NAME    : hb
+COUNTRY : jhg
+AGE     : 20
+__________________
+NAME    : bh
+COUNTRY : jh
+AGE     : 20
+NAME    : hkgjl
+COUNTRY : nbv420
+AGE     : 20
+__________________
+NAME    : ana_keda
+COUNTRY : no
+AGE     : 19
+__________________
+NAME    : m,f
+COUNTRY : kjg
+AGE     : 20
+NAME    : nmc
+COUNTRY : bng
+AGE     : 20
+NAME    : bnmb
+COUNTRY : khj
+AGE     : 20
+__________________
+NAME    : hgjk
+COUNTRY : jng
+AGE     : 20
+__________________
+NAME    : hjg
+COUNTRY : nmg
+AGE     : 20
+__________________
+NAME    : jghg
+COUNTRY : hgh
+AGE     : 20
+__________________
+NAME    : hg
+COUNTRY : hg
+AGE     : 20
+__________________
+NAME    : jhgf
+COUNTRY : kh
+AGE     : 20
+__________________
+NAME    : yf
+COUNTRY : xfgh
+AGE     : 20
+__________________
+NAME    : ???????
+COUNTRY : egy
+AGE     : 20
+NAME    : hussein
+COUNTRY : egy
+AGE     : 20
+NAME    : hussein
+COUNTRY : egy
+AGE     : 20
+NAME    : hussein
+COUNTRY : egy
+AGE     : 20
+__________________
+NAME    : husujsk
+COUNTRY : hsjk
+AGE     : 5
+__________________
+NAME    : ali
+COUNTRY : hs
+AGE     : 5
+__________________
+NAME    : omar hesham
+COUNTRY : egy
+AGE     : 20
+__________________
+NAME    : om
+COUNTRY : egy
+AGE     : 20
+__________________
+NAME    : omar
+COUNTRY : egy
+AGE     : 20
+__________________
+NAME    : om
+COUNTRY : egy
+AGE     : 20
+NAME    : omar
+COUNTRY : e
+AGE     : 20
+NAME    : om
+COUNTRY : e
+AGE     : 20
+NAME    : omar
+COUNTRY : e
+AGE     : 20
+__________________
